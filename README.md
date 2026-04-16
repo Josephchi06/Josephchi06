@@ -27,11 +27,7 @@ I have worked on sales analysis projects, data cleaning tasks, and SQL-based ana
 
 ## 📊 Featured Projects
 
-- 📈 Sales Performance Dashboard (Excel)
-- 🧹 Data Cleaning Project (Excel / SQL)
-- 🗄️ SQL Data Analysis Project
-- 📊 Power BI / Tableau Dashboard
-
+- 📈 [Sales Performance Dashboard (Excel)](https://github.com/josephchi06/sales-performance-dashboard-excel)
 ---
 
 ## 🎯 What I Do
