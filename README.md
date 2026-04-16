@@ -27,7 +27,15 @@ I have worked on sales analysis projects, data cleaning tasks, and SQL-based ana
 
 ## 📊 Featured Projects
 
-- 📈 [Sales Performance Dashboard (Excel)](https://github.com/josephchi06/sales-performance-dashboard-excel)
+### 📈 Sales Performance Dashboard (Excel)
+A data analysis project using Excel to evaluate sales performance, regional profitability, and product trends.  
+👉 https://github.com/josephchi06/sales-performance-dashboard-excel
+
+---
+### 👟 Adidas Sales Performance Analysis (Excel)
+An end-to-end Excel analysis including data cleaning, KPI tracking, and business recommendations across products, regions, and sales channels.  
+👉 https://github.com/josephchi06/adidas-sales-performance-analysis-excel
+
 ---
 
 ## 🎯 What I Do
