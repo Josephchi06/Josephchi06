@@ -45,9 +45,11 @@ I have worked on sales analysis projects, data cleaning tasks, and SQL-based ana
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/bethel-joseph-052351390
-- 🧠 Kaggle:https://www.kaggle.com/betheljoseph
-- ✍️ Medium: https://medium.com/@josephchi006
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethel-joseph-052351390)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/betheljoseph)
+
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@josephchi006)
 ---
 
 ⭐I help transform raw data into clear insights that drive smarter business decisions.
