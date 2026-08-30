@@ -1,10 +1,15 @@
 # Hi, I'm Joseph Bethel 👋
 
-I’m a Data Analyst with a background in Economics, passionate about using data to solve business problems and support decision-making.
+I’m a Data Analyst with a background in Economics, passionate about using data to solve business problems and help businesses make better decisions.
 
-I specialize in analyzing datasets, building dashboards, and uncovering insights using Excel, SQL, Power BI, and Tableau.
+I specialize in analyzing datasets, building interactive dashboards, and uncovering meaningful insights using **Excel, SQL, Power BI, and Tableau**.
 
-I have worked on sales analysis projects, data cleaning tasks, and SQL-based analysis to identify trends, improve performance, and generate actionable insights.
+I have worked on several end-to-end analytics projects across **sales analysis, banking customer churn, healthcare, fraud detection, and more to come**. Through these projects, I have developed strong **analytical, problem-solving, and data visualization skills**, with a focus on turning raw data into insights that can support better business decisions.
+
+I enjoy working through a business problem from **data preparation and analysis to visualization, insights, and recommendations**.
+
+My goal is to continue building practical projects that solve real-world business problems and create value through data.
+
 
 ---
 
